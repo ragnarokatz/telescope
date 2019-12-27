@@ -18,7 +18,7 @@
     "html-elements": "./tools/html-elements.js"
   },
   "scripts": {
-    "build": "npm build",
+    "build": "npm build --output public",
     "eslint": "eslint --ignore-path .gitignore .",
     "eslint-fix": "eslint --fix --ignore-path .gitignore .",
     "stylelint": "stylelint src/**/*.css",
