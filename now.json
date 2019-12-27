@@ -1,1 +1,8 @@
-{}
+{
+  "name": "telescope",
+  "version": 2,
+  "github": {
+    "enabled": false
+  },
+  "redirects": [{ "source": "/frontend", "destination": "/src/frontend/index.html" }]
+}
